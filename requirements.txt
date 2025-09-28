@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-groq
+openai
+fastapi
+uvicorn
+pydantic
+requests
+python-dotenv
+langgraph
+langgraph[cli]
+
