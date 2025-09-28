@@ -1,3 +1,31 @@
 1.uv venv blog_uv_venv --python=3.13
 2. uv pip install -r requirements.txt
 3. git add .gitignore
+
+
+Tell Aadit to clone repo and checkout his branch
+Aadit will run:
+
+git clone https://github.com/anshu1016/BlogGenerationAPI_Chatbot
+cd <repo_name>
+
+# Switch to his branch
+git checkout master
+
+
+He can now work there.
+
+Aadit commits changes to his branch
+
+git add .
+git commit -m "Added feature XYZ"
+git push origin master
+
+
+You review Aadit’s work
+
+On GitHub → Aadit opens a Pull Request (PR) from master → main.
+
+You review, request changes if needed.
+
+Once approved → merge to main.
