@@ -1,0 +1,3 @@
+1.uv venv blog_uv_venv --python=3.13
+2. uv pip install -r requirements.txt
+3. git add .gitignore
